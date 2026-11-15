@@ -4,7 +4,7 @@
 
 > Fizzy, a forgetful little blue fish, is hunting for a job on the Great Reef Job Board. But sneaky jellyfish 🪼 post **fake jobs** to trick job seekers! Help Fizzy by solving three data science mysteries.
 
-**▶ Play it online:** https://fuzzy-doodle-g46w66wv4gqpfwjp9-8501.app.github.dev/
+**▶ Play it online:** https://data-science-learning-game-findingfizzy.streamlit.app/
 
 **📖 How to play:** see [HOW_TO_PLAY.md](HOW_TO_PLAY.md)
 **🧪 Playtest evidence:** see [PLAYTEST.md](PLAYTEST.md)
